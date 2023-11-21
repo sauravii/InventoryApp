@@ -1,0 +1,61 @@
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.csproj.AssemblyReference.cache
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.Form1.resources
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.Properties.Resources.resources
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.csproj.GenerateResource.cache
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.GeneratedMSBuildEditorConfig.editorconfig
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.AssemblyInfoInputs.cache
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.AssemblyInfo.cs
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.csproj.CoreCompileInputs.cache
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\bin\Debug\net6.0-windows\BerkahJawir.exe
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\bin\Debug\net6.0-windows\BerkahJawir.deps.json
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\bin\Debug\net6.0-windows\BerkahJawir.runtimeconfig.json
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\bin\Debug\net6.0-windows\BerkahJawir.dll
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\bin\Debug\net6.0-windows\BerkahJawir.pdb
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\bin\Debug\net6.0-windows\MySql.Web.dll
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\bin\Debug\net6.0-windows\MySql.Data.xml
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\bin\Debug\net6.0-windows\MySql.Web.xml
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.csproj.CopyComplete
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.dll
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\obj\Debug\net6.0-windows\refint\BerkahJawir.dll
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.pdb
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.genruntimeconfig.cache
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\obj\Debug\net6.0-windows\ref\BerkahJawir.dll
+D:\XI\SMT 2\KK3\Projek\BerkahJawir\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.FormInventory.resources
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\bin\Debug\net6.0-windows\BerkahJawir.exe
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\bin\Debug\net6.0-windows\BerkahJawir.deps.json
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\bin\Debug\net6.0-windows\BerkahJawir.runtimeconfig.json
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\bin\Debug\net6.0-windows\BerkahJawir.dll
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\bin\Debug\net6.0-windows\BerkahJawir.pdb
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\bin\Debug\net6.0-windows\MySql.Web.dll
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\bin\Debug\net6.0-windows\MySql.Data.xml
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\bin\Debug\net6.0-windows\MySql.Web.xml
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.csproj.AssemblyReference.cache
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.Form1.resources
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.FormCashier.resources
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.Properties.Resources.resources
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.csproj.GenerateResource.cache
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.GeneratedMSBuildEditorConfig.editorconfig
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.AssemblyInfoInputs.cache
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.AssemblyInfo.cs
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.csproj.CoreCompileInputs.cache
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.csproj.CopyComplete
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.dll
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\obj\Debug\net6.0-windows\refint\BerkahJawir.dll
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.pdb
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.genruntimeconfig.cache
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\obj\Debug\net6.0-windows\ref\BerkahJawir.dll
+D:\XI\SMT 2\KK3\FIX UTS\BerkahJawirFixUTS\BerkahJawir\obj\Debug\net6.0-windows\BerkahJawir.btn_save2.resources
